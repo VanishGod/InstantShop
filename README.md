@@ -25,7 +25,7 @@ A sleek e-commerce demonstration built with the most popular modern technologies
 
 ### 🎨 Modern Experience
 - Elegant interface with **Tailwind CSS**
-- Smooth navigation with **Next.js 13**
+- Smooth navigation with **Next.js 15**
 - Type safety with **TypeScript**
 - Optimized global state management
 
