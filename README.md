@@ -1,9 +1,9 @@
 # 🛍️ InstantShop - E-commerce Demo
 
-![Next.js](https://img.shields.io/badge/Next.js-13-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-15.5-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-3.3-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind](https://img.shields.io/badge/Tailwind-4.1-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 A sleek e-commerce demonstration built with the most popular modern technologies. Explore the features of a complete online store with smart simulated authentication!
 
